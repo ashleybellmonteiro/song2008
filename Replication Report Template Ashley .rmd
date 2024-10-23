@@ -28,6 +28,17 @@ A potential challenge of this study may be the trivia questions that were used a
 
 ## Methods
 
+### Pretest
+Five Prolific participants read the sentence "Switzerland is famous for cuckoo clocks, banks and pocket knives“ which was printed in the font, grey Brush Script MT with a font size of 12. An additional 5 students read the same sentence, but instead in a black Arial font with a font size of 12. Participants were instructed rate the sentence in regards to ease in which they could read the text (1 = very difficult, 7 = very easy). Samples of these sentences are included in figure 1. 
+
+(data not complete yet, therefore no results reported)
+
+### Main Experiment 
+
+Thirty-two prolific participants were randomly assigned to either an easy-to-read or difficult-to-read condition. Instructions (modeled after Erickson & Mattson, 1981) guided participants on how to complete the study by stating, 'You will read a couple of trivia questions and answer them. You can write the answer in the blank. If you do not know the answer, please write "don't know." You may or may not encounter ill-formed questions that do not have correct answers if taken literally. For instance, you might see the question, "Why was President Gerald Ford forced to resign his office?" In fact, Gerald Ford was not forced to resign. Please write "can't say" for this type of question.'
+
+Depending on the condition to which the participant was assigned, they were presented with either an easy-to-read or hard-to-read font. The control question, which did not have a distortion, was, "Which country is famous for cuckoo clocks, chocolate, banks, and pocket knives?" The answer to this question is Switzerland. The experimental question did contain a distortion and was, "How many animals of each kind did Moses take on the Ark?" This question replaces the correct figure, Noah, with Moses and should be answered by participants with "can't say." If participants answered "2," it indicated the Moses illusion.
+
 ### Power Analysis
 
 Original effect size, power analysis for samples to achieve 80%, 90%, 95% power to detect that effect size.  Considerations of feasibility for selecting planned sample size.
