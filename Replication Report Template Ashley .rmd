@@ -16,8 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Introduction
 
-\[No abstract is needed.\] Each replication project will have a straightforward, no frills report of the study and results. These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole. Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection. Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information. It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.
-
 https://github.com/ashleybellmonteiro/song2008
 
 As a researcher interested in social psychology I found the paper, "Fluency and the Detection of Misleading Questions: Low Processing Fluency Attenuates The Moses Illusion" to be particularly interesting. Although I am primarily an emotion researcher, I enjoy incorporating topics such as user experience, social media, and fluency effects into my work. A big reason I chose this paper was because I don't have much experience in this exact type of work. Instead of doing studies that I will run all the time, I've decided to use this project as an opportunity to try something new. By engaging in this research I hope to not only broaden my understanding of cognitive processes, but also enrich my upcoming research...especially my first year project!
